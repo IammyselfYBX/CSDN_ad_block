@@ -5,3 +5,6 @@
 
 ### 2从Greasy Fork安装
 你可以访问Greasy Fork **[点我](https://github.com/AdlerED/CSDNGreener.git)**  进行安装.
+
+### 3.效果图
+![效果图.png](效果图.png)
